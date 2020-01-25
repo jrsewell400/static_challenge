@@ -1,0 +1,35 @@
+/* HEADERS */
+h1 {
+  background-color: darkred;
+  padding: 18px;
+  color: white;
+  margin-bottom:  0
+}
+
+h2 {
+  background-color: gray;
+  color: white;
+  font-size: 90%;
+  text-align: right;
+  padding: 18px;
+  margin-top: 0
+}
+
+/* LINKS */
+a:link {
+    color: white;
+}
+/* A link that has been visited */
+a:visited {
+    color: black;
+}
+/* A link that is hovered on */
+a:hover {
+    color: darkred;
+}
+/* A link that is selected */
+a:active {
+    color: white;
+}
+
+/* PARAGRAPHS */
